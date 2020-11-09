@@ -27,3 +27,4 @@ Route::view('/contact', 'contact')->name('contact');
 // paystack
 Route::post('/pay', 'PaymentController@redirectToGateway')->name('pay');
 Route::get('/thanks', 'PaymentController@handleGatewayCallback');
+Route::get('/thank', 'thank')->name('thank');
