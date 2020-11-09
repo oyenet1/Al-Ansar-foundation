@@ -21,7 +21,7 @@
                 <div class="col-lg-6 p-1">
                     <div class="w-100 mb-3">
                         <p class="percent text-uppercase m-0 pb-1">acce-abuja <span class="text-capitalize float-right">70
-                                studnts</span> </p>
+                                Students</span> </p>
                         <div class="progress" style="height: 8px">
                             <div class="progress-bar bg-success bg-color" role="progressbar" aria-valuenow="70"
                                 aria-valuemin="0" aria-valuemax="100" style="width:70%;">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="w-100 my-3">
                         <p class="percent text-uppercase m-0 pb-1">AL-ANSAR ACADEMY MAIDUGURI <span
-                                class="text-capitalize float-right">60 studnts</span> </p>
+                                class="text-capitalize float-right">60 Students</span> </p>
                         <div class="progress" style="height: 8px">
                             <div class="progress-bar  bg-success bg-color" role="progressbar" aria-valuenow="40"
                                 aria-valuemin="0" aria-valuemax="100" style="width:60%">

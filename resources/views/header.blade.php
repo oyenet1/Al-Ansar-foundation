@@ -55,7 +55,7 @@
             </div>
         </div>
     </nav>
-    <video width="100%" height="auto" class="video" autoplay>
+    <video width="100%" height="auto" class="video" loop autoplay>
         <source src="al-ansar.mp4" type="video/mp4">
     </video>
     {{-- <iframe width="100%" class="video" src="https://www.youtube.com/embed/dpu2F1BIKFA?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --}}

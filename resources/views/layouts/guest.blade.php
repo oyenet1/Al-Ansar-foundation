@@ -19,6 +19,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"
         rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Atma:wght@600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/font/stylesheet.css">
 
     <!-- Styles -->

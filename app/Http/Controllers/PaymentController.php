@@ -32,6 +32,8 @@ class PaymentController extends Controller
     {
         $paymentDetails = Paystack::getPaymentData();
 
+        return redirect()->route('thank');
+
         dd($paymentDetails);
         // Now you have the payment details,
         // you can store the authorization_code in your db to allow for recurrent subscriptions

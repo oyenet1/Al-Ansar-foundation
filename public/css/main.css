@@ -156,3 +156,16 @@ legend {
   padding: 5px 5px 5px 10px;
 }
 
+.mark {
+  font-size: 5em !important;
+}
+
+.atma {
+  font-family: "Atma", cursive;
+  font-weight: 600;
+}
+
+h1.atma {
+  font-size: 8vw;
+}
+
