@@ -1,0 +1,151 @@
+// background color
+
+.bg-milk1 {
+    background-color: rgb(210, 210, 210);
+}
+
+.bg-milk2 {
+    background-color: rgb(220, 220, 220);
+}
+
+.bg-milk3 {
+    background-color: rgb(230, 230, 230);
+}
+
+.bg-milk {
+    background-color: rgb(250, 250, 250);
+}
+
+.bg-milk4 {
+    background-color: rgb(240, 240, 240);
+}
+
+// donate buutton
+a.donate {
+    color: rgb(20, 250, 100) !important;
+    font-weight: 700 !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.margin-negative {
+    margin-top: -100px !important;
+}
+
+.negative {
+    margin-bottom: 100px;
+}
+
+.crimsom-semi-bold {
+    font-family: 'Crimson Text', serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.noto {
+    font-family: 'Noto Serif', serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.anton, .anton, h5.head, .teko {
+    font-family: 'Anton', sans-serif;
+    font-style: normal;
+}
+.alfa, .slab {
+    font-family: 'Alfa Slab One', cursive;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Noto Serif', serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.bg-black {
+    background-color: rgba(0, 0, 0, .8);
+}
+
+.text-color-2 {
+    color: rgb(70, 200, 50)!important;
+}
+
+a.fb i {
+    color: rgb(0, 100, 250)!important;
+}
+a.int i {
+    color: rgb(250, 20, 200)!important;
+}
+a.you i {
+    color: rgb(255, 10, 0)!important;
+}
+a.tw i {
+    color: rgb(5, 150, 250)!important;
+}
+
+a.icon-color-2:hover {
+    opacity: .7!important;
+}
+a.link {
+    color: rgb(230, 230, 230)!important;
+}
+
+.p-100 {
+    padding: 150px;
+    border-bottom: 2rem;
+    border-style: solid;
+    border-color: rgb(10, 150, 20);
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+}
+
+.bg-trans {
+    background-color: rgba(50, 250, 150, .7);
+}
+.mt-up {
+margin-top: -9rem!important;
+z-index: 1!important;
+background-color: white!important;
+}
+.p3 {
+    padding: 1px;
+}
+
+.z-index-n1 {
+    z-index: -1!important;
+}
+
+#video, .video {
+    min-height: 100px;
+    max-height: 650px;;
+}
+
+// back in contact
+
+// field
+fieldset
+	{
+		border: 1px solid #ddd !important;
+		margin: 0;
+		xmin-width: 0;
+		padding: 10px;
+		position: relative;
+		border-radius:4px;
+		background-color:#f5f5f5;
+		padding-left:10px!important;
+	}
+
+		legend
+		{
+			font-size:14px;
+			font-weight:bold;
+			margin-bottom: 0px;
+			width: max-content;
+			border: 1px solid #ddd;
+			border-radius: 4px;
+			padding: 5px 5px 5px 10px;
+		}

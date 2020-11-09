@@ -1,0 +1,158 @@
+.bg-milk1 {
+  background-color: #d2d2d2;
+}
+
+.bg-milk2 {
+  background-color: gainsboro;
+}
+
+.bg-milk3 {
+  background-color: #e6e6e6;
+}
+
+.bg-milk {
+  background-color: #fafafa;
+}
+
+.bg-milk4 {
+  background-color: #f0f0f0;
+}
+
+a.donate {
+  color: #14fa64 !important;
+  font-weight: 700 !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.margin-negative {
+  margin-top: -100px !important;
+}
+
+.negative {
+  margin-bottom: 100px;
+}
+
+.crimsom-semi-bold {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.noto {
+  font-family: "Noto Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.anton,
+.anton,
+h5.head,
+.teko {
+  font-family: "Anton", sans-serif;
+  font-style: normal;
+}
+
+.alfa,
+.slab {
+  font-family: "Alfa Slab One", cursive;
+  font-style: normal;
+}
+
+body {
+  font-family: "Noto Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bg-black {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.text-color-2 {
+  color: #46c832 !important;
+}
+
+a.fb i {
+  color: #0064fa !important;
+}
+
+a.int i {
+  color: #fa14c8 !important;
+}
+
+a.you i {
+  color: #ff0a00 !important;
+}
+
+a.tw i {
+  color: #0596fa !important;
+}
+
+a.icon-color-2:hover {
+  opacity: 0.7 !important;
+}
+
+a.link {
+  color: #e6e6e6 !important;
+}
+
+.p-100 {
+  padding: 150px;
+  border-bottom: 2rem;
+  border-style: solid;
+  border-color: #0a9614;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+}
+
+.bg-trans {
+  background-color: rgba(50, 250, 150, 0.7);
+}
+
+.mt-up {
+  margin-top: -9rem !important;
+  z-index: 1 !important;
+  background-color: white !important;
+}
+
+.p3 {
+  padding: 1px;
+}
+
+.z-index-n1 {
+  z-index: -1 !important;
+}
+
+#video,
+.video {
+  min-height: 100px;
+  max-height: 650px;
+}
+
+fieldset {
+  border: 1px solid #ddd !important;
+  margin: 0;
+  xmin-width: 0;
+  padding: 10px;
+  position: relative;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  padding-left: 10px !important;
+}
+
+legend {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px 5px 5px 10px;
+}
+
