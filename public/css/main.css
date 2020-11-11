@@ -18,9 +18,17 @@
   background-color: #f0f0f0;
 }
 
-a.donate {
-  color: #14fa64 !important;
+.nav-item a.donate {
+  color: #0a9614 !important;
   font-weight: 700 !important;
+  display: block;
+  border-color: #0a9614 !important;
+}
+
+.nav-item a.donate:hover {
+  color: white !important;
+  background-color: #0a9614 !important;
+  transition: 1s;
 }
 
 a {
@@ -175,5 +183,15 @@ div.alert-botto {
   left: 2px;
   min-width: 300px;
   max-width: 50%;
+}
+
+.nav-item a {
+  color: black !important;
+}
+
+.nav-item a:hover,
+.nav-item a:active {
+  color: #0a9614 !important;
+  transition: 1s;
 }
 

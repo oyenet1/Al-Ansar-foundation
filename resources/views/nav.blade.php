@@ -1,12 +1,11 @@
-<nav class="navbar navbar-expand-md navbar-dark sticky-top m-0 bg-success text-dark">
+<nav class="navbar navbar-expand-md navbar-light sticky-top m-0 bg-white text-success">
     <div class="container justify-content-between">
         <!-- Brand -->
         <a class="navbar-brand" href="/" class="logo">
-            Homepage
-            {{-- <img src="image/logo.png" alt="" srcset=""
-                style="max-width: 400px;" class="d-none d-lg-block logo-lg">
-            <img src="image/logo1.png" alt="" srcset="" style="max-width: 80px;" class="d-lg-none logo-sm">
-            --}}
+            <img src="image/logo.png" alt="" srcset=""
+                style="max-width: 100px;" class="d-none d-lg-block logo-lg">
+            <img src="image/logo.png" alt="" srcset="" style="max-width: 80px;" class="d-lg-none logo-sm">
+
         </a>
 
         <!-- Toggler/collapsibe Button -->
@@ -23,7 +22,7 @@
                     <a class="nav-link text-capitalize" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-capitalize" href="#about">About</a>
+                <a class="nav-link text-capitalize" href="{{ route('about') }}">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-capitalize" href="#services">Services</a>
@@ -34,7 +33,7 @@
                 <li class="nav-item">
                 <a class="nav-link text-capitalize" href="{{ route('contact') }}">Contact</a>
                 </li>
-                <li class="nav-item bg-white donate">
+                <li class="nav-item bg-outline-success border border-success">
                     <a class="nav-link text-capitalize donate px-3" href="{{ route('donate') }}">Donate</a>
                 </li>
 

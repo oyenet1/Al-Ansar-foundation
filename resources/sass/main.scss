@@ -21,9 +21,16 @@
 }
 
 // donate buutton
-a.donate {
-    color: rgb(20, 250, 100) !important;
+.nav-item a.donate {
+    color:rgb(10, 150, 20)!important;
     font-weight: 700 !important;
+    display: block;
+    border-color: rgb(10, 150, 20)!important;
+}
+.nav-item a.donate:hover {
+    color:white!important;
+    background-color: rgb(10, 150, 20)!important;
+    transition: 1s;
 }
 
 a {
@@ -180,4 +187,14 @@ div.alert-botto {
     left: 2px;
     min-width: 300px;
     max-width: 50%;
+}
+
+// styling the link
+.nav-item a {
+    color: black!important;
+
+}
+.nav-item a:hover, .nav-item a:active {
+    color: rgb(10, 150, 20)!important;
+    transition: 1s;
 }
