@@ -15,6 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'HomeController@index')->name('home.index');
 
+// contact
+Route::get('/contact', 'ContactController@contact')->name('contact');
 Route::post('/contact', 'ContactController@store')->name('contact.store');
 
 Auth::routes();
@@ -22,10 +24,6 @@ Auth::routes();
 Route::get('/home', 'HomeController@home')->name('home');
 Route::get('/admin', 'AdminController@index')->name('admin.index');
 Route::view('/donate', 'donate')->name('donate');
-
-// contact
-Route::get('/contact', 'ContactController@contact')->name('contact');
-Route::post('/contact', 'ContactController@store')->name('contact.store');
 
 // paystack
 Route::post('/pay', 'PaymentController@redirectToGateway')->name('pay');

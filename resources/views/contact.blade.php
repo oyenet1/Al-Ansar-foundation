@@ -26,9 +26,8 @@
                     <div class="p-2 bg-success w-100 m-0"></div>
                 </div>
                 <div class="col-lg-6 p-0 bg-milk4">
-                    {{-- <h2 class="teko text-color-2 px-2 mb-0 mt-lg-2">Contact Us</h2> --}}
-                    <form action="{{ route('contact.store') }}" class="m-0 py-3 px-2" method="POST ">
-                        @csrf
+                    <form action=" {{ route('contact.store') }} " class="m-0 py-3 px-2" method="POST ">
+                        {{-- @csrf --}}
                         <div class="form-group d-flex justify-content-between row">
                             <div class="form-group col-md-6">
                                 <input type="text" name="name" id="" class="form-control" placeholder="Name"
@@ -69,10 +68,9 @@
                             @enderror
                             <textarea name="message" id="message" cols="30" rows="10" class="form-control"
                                 placeholder="Your Message here" value="{{ old('message') }}">{{ old('message') }}</textarea>
-
                         </div>
-
-                        <button type="submit" class="btn-color btn-success small btn float-right my-2">Send Message</button>
+                        <button type="submit">Send Message</button>
+                        {{-- <button type="submit" class="btn-color btn-success small btn float-right my-2">Send Message</button> --}}
                     </form>
                 </div>
             </div>
