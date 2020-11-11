@@ -22,6 +22,7 @@ Route::post('/contact', 'ContactController@store')->name('contact.store');
 Auth::routes();
 
 Route::get('/home', 'HomeController@home')->name('home');
+Route::view('/about', 'about')->name('about');
 Route::get('/admin', 'AdminController@index')->name('admin.index');
 Route::view('/donate', 'donate')->name('donate');
 
