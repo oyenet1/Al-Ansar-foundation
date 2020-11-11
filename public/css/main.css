@@ -195,3 +195,7 @@ div.alert-botto {
   transition: 1s;
 }
 
+div.trans {
+  background-color: rgba(50, 250, 150, 0.5);
+}
+
