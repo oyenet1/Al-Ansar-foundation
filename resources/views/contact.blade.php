@@ -26,21 +26,21 @@
                     <div class="p-2 bg-success w-100 m-0"></div>
                 </div>
                 <div class="col-lg-6 p-0 bg-milk4">
-                    <form action=" {{ route('contact.store') }} " class="m-0 py-3 px-2" method="POST ">
-                        {{-- @csrf --}}
+                    <form action=" {{ route('contact.store') }} " class="m-0 py-3 px-2" method="POST">
+                        @csrf
                         <div class="form-group d-flex justify-content-between row">
                             <div class="form-group col-md-6">
                                 <input type="text" name="name" id="" class="form-control" placeholder="Name"
                                     value="{{ old('name') }}">
                                 @error('name')
-                                <span class="text-danger"> {{ $message }} </span>
+                                <span class="text-danger small"> {{ $message }} </span>
                                 @enderror
                             </div>
                             <div class="form-group col-md-6">
                                 <input type="email" name="email" id="" class="form-control " placeholder="Email"
                                     value="{{ old('email') }}">
                                 @error('email')
-                                <span class="text-danger"> {{ $message }} </span>
+                                <span class="text-danger small"> {{ $message }} </span>
                                 @enderror
                             </div>
 
@@ -50,26 +50,26 @@
                                 <input type="number" name="phone" id="" class="form-control " placeholder="Phone"
                                     value="{{ old('phone') }}">
                                 @error('phone')
-                                <span class="text-danger"> {{ $message }} </span>
+                                <span class="text-danger small"> {{ $message }} </span>
                                 @enderror
                             </div>
                             <div class="form-group col-md-6">
                                 <input type="text" name="subject" id="" class="form-control " placeholder="Subject"
                                     value="{{ old('subject') }}">
                                 @error('subject')
-                                <span class="text-danger"> {{ $message }} </span>
+                                <span class="text-danger small"> {{ $message }} </span>
                                 @enderror
                             </div>
 
                         </div>
                         <div class="form-group">
                             @error('message')
-                            <span class="text-danger"> {{ $message }} </span>
+                            <span class="text-danger small"> {{ $message }} </span>
                             @enderror
                             <textarea name="message" id="message" cols="30" rows="10" class="form-control"
                                 placeholder="Your Message here" value="{{ old('message') }}">{{ old('message') }}</textarea>
                         </div>
-                        <button type="submit">Send Message</button>
+                        <button type="submit" class="btn-color btn-success small btn float-right my-2">Send Message</button>
                         {{-- <button type="submit" class="btn-color btn-success small btn float-right my-2">Send Message</button> --}}
                     </form>
                 </div>

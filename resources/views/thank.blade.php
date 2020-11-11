@@ -12,7 +12,7 @@
                         aria-hidden="true"></i>
 
                     <p class="text-center m-3 px-md-5 px-sm-3 px-2">
-                        Thank you for your great generosity! We, at <span class="text-success">Al-Ansar Foundation</span>, greatly appreciate your donation, and your sacrifice. Your support helps to further our mission through helping the less privileged communities in the areas of western and Islamic education, public healthcare, human capital developments, teaching religious tolerance, environmental conservation, water mission-drilling bore holes to the poor communities, supporting the orphans, women empowerment, building mosques and engages in charity activities., including [specific project or recipient You truly make the difference for us, and we are extremely grateful!
+                        Thank you for your great generosity! We, at <span class="text-success">Al-Ansar Foundation</span>, greatly appreciate your donation, and your sacrifice. Your support helps to further our mission through helping the less privileged communities in the areas of western and Islamic education, public healthcare, human capital developments, teaching religious tolerance, environmental conservation, water mission-drilling bore holes to the poor communities, supporting the orphans, women empowerment, building mosques and engages in charity activities. And we are extremely grateful!
                     </p>
                 </div>
             </div>
