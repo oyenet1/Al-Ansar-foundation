@@ -5,6 +5,10 @@
 
     {{-- about us --}}
     <div class="container-fluid bg-milk" id="about">
+        <div class="w-100 p-1 bg-success"></div>
+        {{-- <img src="/image/about.jpg" alt="about us"> --}}
+        <div class="py-5" style="background-image: url('/image/about.jpg'); background-attachment: cover"></div>
+        <div class="w-100 p-2 bg-success"></div>
         <div class="container">
             <div class="row justify-content-center p-5">
                 <div class="col-12  mb-3">
