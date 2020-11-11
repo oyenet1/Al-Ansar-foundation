@@ -506,6 +506,7 @@ class ComposerStaticInitd9271de6b184c8e38601d754361e09fa
     public static $classMap = array (
         'App\\Admin' => __DIR__ . '/../..' . '/app/Admin.php',
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
+        'App\\Contact' => __DIR__ . '/../..' . '/app/Contact.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
         'App\\Http\\Controllers\\AdminController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminController.php',
         'App\\Http\\Controllers\\Auth\\ConfirmPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ConfirmPasswordController.php',
@@ -516,6 +517,7 @@ class ComposerStaticInitd9271de6b184c8e38601d754361e09fa
         'App\\Http\\Controllers\\Auth\\VerificationController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/VerificationController.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\HomeController' => __DIR__ . '/../..' . '/app/Http/Controllers/HomeController.php',
+        'App\\Http\\Controllers\\PaymentController' => __DIR__ . '/../..' . '/app/Http/Controllers/PaymentController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\CheckForMaintenanceMode' => __DIR__ . '/../..' . '/app/Http/Middleware/CheckForMaintenanceMode.php',
@@ -527,6 +529,7 @@ class ComposerStaticInitd9271de6b184c8e38601d754361e09fa
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
         'App\\Models\\Permission' => __DIR__ . '/../..' . '/app/Models/Permission.php',
         'App\\Models\\Role' => __DIR__ . '/../..' . '/app/Models/Role.php',
+        'App\\Payment' => __DIR__ . '/../..' . '/app/Payment.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'App\\Providers\\AuthServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AuthServiceProvider.php',
         'App\\Providers\\BroadcastServiceProvider' => __DIR__ . '/../..' . '/app/Providers/BroadcastServiceProvider.php',
