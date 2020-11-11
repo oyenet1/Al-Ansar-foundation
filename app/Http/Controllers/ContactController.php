@@ -27,6 +27,6 @@ class ContactController extends Controller
 
         Contact::create($data);
 
-        return redirect()->back()->with('mssg', 'Thank you for getting in touch!' . '<br>'  . 'We appreciate you contacting us about. It is an honor to have you in our database. We will get to you as soon as possible');
+        return redirect('/contact')->with('mssg', 'Thank you for getting in touch!' . '<br>'  . 'We appreciate you contacting us about. It is an honor to have you in our database. We will get to you as soon as possible');
     }
 }
