@@ -169,3 +169,11 @@ h1.atma {
   font-size: 8vw;
 }
 
+div.alert-botto {
+  position: fixed;
+  bottom: 3rem;
+  left: 2px;
+  min-width: 300px;
+  max-width: 50%;
+}
+
