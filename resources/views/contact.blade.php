@@ -3,11 +3,11 @@
 @section('content')
 @include('nav')
     {{-- flash message --}}
-    @if (session('success'))
+    @if (session('mssg'))
         <div class="alert alert-success session alert-dismissible">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
             <strong> <i class="fa fa-check-circle" aria-hidden="true"></i> </strong>
-            {{ session('success') }}
+            {{ session('mssg') }}
         </div>
     @endif
 
@@ -72,7 +72,7 @@
 
                         </div>
 
-                        <button class="btn-color btn-success small btn float-right my-2">Send Message</button>
+                        <button type="submit" class="btn-color btn-success small btn float-right my-2">Send Message</button>
                     </form>
                 </div>
             </div>
