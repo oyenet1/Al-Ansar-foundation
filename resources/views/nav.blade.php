@@ -26,7 +26,7 @@
                  <!-- Dropdown -->
                  <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="" id="navbardrop" data-toggle="dropdown">
-                            Organisation
+                            Organisations
                         </a>
                         <div class="dropdown-menu text-capitalize">
                             <a class="dropdown-item" href="#">Acce Abuja</a>

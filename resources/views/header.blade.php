@@ -27,13 +27,18 @@
                      <!-- Dropdown -->
                      <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="" id="navbardrop" data-toggle="dropdown">
-                                Organisation
+                                Organisations
                             </a>
                             <div class="dropdown-menu text-capitalize">
-                                <a class="dropdown-item" href="#">Volunteer Faculty</a>
-                                <a class="dropdown-item" href="#">Volunteer Faculty</a>
-                                <a class="dropdown-item" href="#">Volunteer Mentor</a>
-                                <a class="dropdown-item" href="#">Volunteer Advisors</a>
+                                <a class="dropdown-item" href="#">Acce Abuja</a>
+                                <a class="dropdown-item" href="#">Al-Ansar Masjid</a>
+                                <a class="dropdown-item" href="#">Al-Ansar Academy, Maiduguri</a>
+                                <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
+                                <a class="dropdown-item" href="#">Al-Ansar University</a>
+                                <a class="dropdown-item" href="#">Al-Ansar Security</a>
+                                <a class="dropdown-item" href="#">Al-Ansar cleaning & hygeinic services</a>
+                                <a class="dropdown-item" href="#">Al-Ansar Radio & TV</a>
+                                <a class="dropdown-item" href="#">Al-Ansar Women & Childreen Hospital</a>
                             </div>
                         </li>
                     <li class="nav-item">
