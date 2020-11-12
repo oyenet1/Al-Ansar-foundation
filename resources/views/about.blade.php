@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row justify-content-center p-5">
                 <div class="col-12  mb-3">
-                    <h1 class="text-capitalize head text-center p-md-3">About Us</h1>
+                    <h1 class="text-capitalize head text-center p-md-3 teko">About Us</h1>
                 </div>
                 <div class="col-lg-6 p-1">
                     <p class="p">Al Ansar foundation is a non-profitable organization founded on the year 2001 at Maiduguri,

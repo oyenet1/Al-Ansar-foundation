@@ -16,7 +16,7 @@
 
             <!-- Navbar links -->
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                <ul class="navbar-nav ml-auto">
+                <ul class="navbar-nav ml-auto text-uppercase">
                     <!-- !-- Dropdown -->
                     <li class="nav-item">
                         <a class="nav-link text-capitalize" href="/">Home</a>
@@ -33,22 +33,22 @@
                     <li class="nav-item">
                         <a class="nav-link text-capitalize" href="{{ route('contact') }}">Contact</a>
                     </li>
-                    <li class="nav-item bg-outline-success border border-success">
-                        <a class="nav-link text-capitalize donate px-3" href="{{ route('donate') }}">Donate</a>
-                    </li>
 
-                    {{--
+
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                            Dropdown link
+                            Volunteer
                         </a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="#">Link 1</a>
                             <a class="dropdown-item" href="#">Link 2</a>
                             <a class="dropdown-item" href="#">Link 3</a>
                         </div>
-                    </li> --}}
+                    </li>
+                                                                <li class="nav-item bg-outline-success border border-success">
+                                                                    <a class="nav-link text-capitalize donate px-3" href="{{ route('donate') }}">Donate</a>
+                                                                </li>
                 </ul>
             </div>
         </div>
