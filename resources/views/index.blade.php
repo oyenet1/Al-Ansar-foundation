@@ -156,7 +156,7 @@
                     <div class="card bg-white">
                       <img class="card-img-top" src="/image/amf.jpeg" alt="acce" class="">
                       <div class="card-body p-0 text-center">
-                          <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar Masjid foundation</h5>
+                          <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar Masjid</h5>
                         <a href="#" class="btn btn-sm btn-success my-2 stretched-link" target="_blank" title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
                       </div>
                     </div>
