@@ -23,6 +23,7 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@home')->name('home');
 Route::view('/about', 'about')->name('about');
+Route::view('/volunteer', 'volunteer')->name('volunteer');
 Route::get('/admin', 'AdminController@index')->name('admin.index');
 Route::view('/donate', 'donate')->name('donate');
 

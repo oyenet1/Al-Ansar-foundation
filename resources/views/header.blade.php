@@ -16,39 +16,52 @@
 
             <!-- Navbar links -->
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                <ul class="navbar-nav ml-auto text-uppercase">
+                <ul class="navbar-nav ml-auto text-uppercase roboto">
                     <!-- !-- Dropdown -->
                     <li class="nav-item">
-                        <a class="nav-link text-capitalize" href="/">Home</a>
+                        <a class="nav-link text-uppercase" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-capitalize" href="{{ route('about') }}">About</a>
+                        <a class="nav-link text-uppercase" href="{{ route('about') }}">About</a>
+                    </li>
+                     <!-- Dropdown -->
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="" id="navbardrop" data-toggle="dropdown">
+                                Organisation
+                            </a>
+                            <div class="dropdown-menu text-capitalize">
+                                <a class="dropdown-item" href="#">Volunteer Faculty</a>
+                                <a class="dropdown-item" href="#">Volunteer Faculty</a>
+                                <a class="dropdown-item" href="#">Volunteer Mentor</a>
+                                <a class="dropdown-item" href="#">Volunteer Advisors</a>
+                            </div>
+                        </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-uppercase" href="#services">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-capitalize" href="#services">Services</a>
+                        <a class="nav-link text-uppercase" href="#news">News</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-capitalize" href="#news">News</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-capitalize" href="{{ route('contact') }}">Contact</a>
+                        <a class="nav-link text-uppercase" href="{{ route('contact') }}">Contact</a>
                     </li>
 
 
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    <a class="nav-link dropdown-toggle" href="{{ route('volunteer') }}" id="navbardrop" data-toggle="dropdown">
                             Volunteer
                         </a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Link 1</a>
-                            <a class="dropdown-item" href="#">Link 2</a>
-                            <a class="dropdown-item" href="#">Link 3</a>
+                        <div class="dropdown-menu text-capitalize">
+                            <a class="dropdown-item" href="#">Volunteer Faculty</a>
+                            <a class="dropdown-item" href="#">Volunteer Faculty</a>
+                            <a class="dropdown-item" href="#">Volunteer Mentor</a>
+                            <a class="dropdown-item" href="#">Volunteer Advisors</a>
                         </div>
                     </li>
-                                                                <li class="nav-item bg-outline-success border border-success">
-                                                                    <a class="nav-link text-capitalize donate px-3" href="{{ route('donate') }}">Donate</a>
-                                                                </li>
+                    <li class="nav-item bg-outline-success border border-success">
+                        <a class="nav-link text-capitalize donate px-3" href="{{ route('donate') }}">Donate</a>
+                    </li>
                 </ul>
             </div>
         </div>

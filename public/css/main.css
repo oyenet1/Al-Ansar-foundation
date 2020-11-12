@@ -55,7 +55,13 @@ a {
   font-style: normal;
 }
 
-.anton,
+.roboto,
+body {
+  font-family: "Roboto Slab", serif;
+  font-weight: 500 !important;
+  font-style: normal;
+}
+
 .anton,
 h5.head,
 .teko {
@@ -66,12 +72,6 @@ h5.head,
 .alfa,
 .slab {
   font-family: "Alfa Slab One", cursive;
-  font-style: normal;
-}
-
-body {
-  font-family: "Noto Serif", serif;
-  font-weight: 700;
   font-style: normal;
 }
 
