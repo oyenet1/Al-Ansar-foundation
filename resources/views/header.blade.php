@@ -24,23 +24,23 @@
                     <li class="nav-item">
                         <a class="nav-link text-uppercase" href="{{ route('about') }}">About</a>
                     </li>
-                     <!-- Dropdown -->
-                     <li class="nav-item dropdown">
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="" id="navbardrop" data-toggle="dropdown">
-                                Organisations
-                            </a>
-                            <div class="dropdown-menu text-capitalize">
-                                <a class="dropdown-item" href="#">Acce Abuja</a>
-                                <a class="dropdown-item" href="#">Al-Ansar Masjid</a>
-                                <a class="dropdown-item" href="#">Al-Ansar Academy, Maiduguri</a>
-                                <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
-                                <a class="dropdown-item" href="#">Al-Ansar University</a>
-                                <a class="dropdown-item" href="#">Al-Ansar Security</a>
-                                <a class="dropdown-item" href="#">Al-Ansar cleaning & hygeinic services</a>
-                                <a class="dropdown-item" href="#">Al-Ansar Radio & TV</a>
-                                <a class="dropdown-item" href="#">Al-Ansar Women & Childreen Hospital</a>
-                            </div>
-                        </li>
+                            Organisations
+                        </a>
+                        <div class="dropdown-menu text-capitalize">
+                            <a class="dropdown-item" href="#">ACCE ABUJA</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Masjid</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Academy, Maiduguri</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
+                            <a class="dropdown-item" href="#">Al-Ansar University</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Security Services ltd</a>
+                            <a class="dropdown-item" href="#">Al-Ansar cleaning & hygeinic services</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Radio & TV</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Women & Children's Hospital</a>
+                        </div>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link text-uppercase" href="#services">Services</a>
                     </li>
@@ -54,7 +54,8 @@
 
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="{{ route('volunteer') }}" id="navbardrop" data-toggle="dropdown">
+                        <a class="nav-link dropdown-toggle" href="{{ route('volunteer') }}" id="navbardrop"
+                            data-toggle="dropdown">
                             Volunteer
                         </a>
                         <div class="dropdown-menu text-capitalize">
