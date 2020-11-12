@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row justify-content-center p-5">
                 <div class="col-12  mb-3">
-                    <h1 class="text-capitalize head text-center p-md-3">About Us</h1>
+                    <h1 class="text-capitalize head text-center p-md-3 teko">About Us</h1>
                 </div>
                 <div class="col-lg-6 p-1">
                     <p class="p">Al Ansar foundation is a non-profitable organization founded on the year 2001 at Maiduguri,
@@ -78,7 +78,7 @@
         <div class="container margin-negative bg-milk">
             <div class="row justify-content-center p-5 ">
                 <div class="col-12 mb-1">
-                    <h1 class="text-capitalize head text-center p-md-3">Our affiliates</h1>
+                    <h1 class="text-capitalize head text-center p-md-3 teko">Our affiliates</h1>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
                     <div class="card bg-white px-3 pt-3">
@@ -163,6 +163,37 @@
                 </div>
             </div>
         </div>
+    </div>
+
+
+    {{-- news --}}
+    <div class="container-fluid bg-white">
+        <div class="container p-5">
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <h1 class="m-4 text-center teko">NEWS</h1>
+                </div>
+                <div class="col-md-6 col-lg-5 col-sm-10 p-3">
+                    <div class="card text-left news">
+                      <img class="card-img-top" src="/image/i1.jpeg" alt="">
+                      <div class="card-body">
+                        <h4 class="card-title">Nile University Experience sharing Tour</h4>
+                        <p class="card-text text-secondary">March 12, 2020</p>
+                      </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-5 col-sm-10 p-3">
+                    <div class="card text-left news">
+                        <img class="card-img-top" src="/image/11.jpg" alt="">
+                        <div class="card-body">
+                          <h4 class="card-title">Jaiz Bank Founder & Co-Founder Visit to Al-Ansar Foundation</h4>
+                          <p class="card-text text-secondary">March 12, 2020</p>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
     {{-- Contact us --}}

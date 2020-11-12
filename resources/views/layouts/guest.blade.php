@@ -164,8 +164,7 @@
                         <li>
                             <a href="{{ Route('home') }}" class="link d-flex align-items-center" target="_black"><img
                                     src="/image/al-maiduguri.jpg" alt="" class="site rounded-circle"
-                                    style="max-width: 30px; margin: 3px"> <span>Al-Ansar Majid Foundation,
-                                    Maiduguri</span> </a>
+                                    style="max-width: 30px; margin: 3px"> <span>Al-Ansar Masjid</span> </a>
                         </li>
                         <li><a href="{{ Route('home') }}" class="link d-flex align-items-center" target="_black"><img
                                     src="/image/al-security.jpg" alt="" class="site rounded-circle"

@@ -11,7 +11,7 @@
                     <p></p>
                 </div>
                 <div class="col-lg-6 p-1 rounded m-0">
-                    <img src="/image/money-hand.jpg" alt="" class="d-block w-100 rounded">
+                    <img src="/image/logo.png" alt="" class="d-block w-100 rounded">
                 </div>
                 <div class="col-lg-6 m-0 bg-milk p-2 rounded">
 
