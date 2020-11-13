@@ -30,15 +30,31 @@
                                         </p>
                                     </div>
                                 </td>
+                            </tr>
+                            <tr>
                                 <td class="d-flex align-items-center">
-                                    <img src="/image/policy-front.jpg" alt="" class=""
+                                    <img src="/image/wall.jpg" alt="" class=""
                                         style="max-height: 300px; width: auto">
                                     <div class="m-2 p-1" style="max-width: 400px">
                                         <h5 class="text-capitalize m-2">Al-Ansar 2021 Calendar</h5>
                                         <p class="m-2">Calendar 1</p>
                                         <p class="m-2 p-0">
-                                            <a href="/file/policy.pdf" target="_blank" class="mr-2 text-dark bg-btn btn-sm">View</a>
-                                            <a href="/file/policy.pdf" class=" text-dark bg-btn btn-sm" download>Download</a>
+                                            <a href="/file/wall.pdf" target="_blank" class="mr-2 text-dark bg-btn btn-sm">View</a>
+                                            <a href="/file/wall.pdf" class=" text-dark bg-btn btn-sm" download>Download</a>
+                                        </p>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="d-flex align-items-center">
+                                    <img src="/image/table.jpg" alt="" class=""
+                                        style="max-height: 300px; width: auto">
+                                    <div class="m-2 p-1" style="max-width: 400px">
+                                        <h5 class="text-capitalize m-2">Al-Ansar 2021 Calendar</h5>
+                                        <p class="m-2">Calendar 2</p>
+                                        <p class="m-2 p-0">
+                                            <a href="/file/table.pdf" target="_blank" class="mr-2 text-dark bg-btn btn-sm">View</a>
+                                            <a href="/file/table.pdf" class=" text-dark bg-btn btn-sm" download>Download</a>
                                         </p>
                                     </div>
                                 </td>
