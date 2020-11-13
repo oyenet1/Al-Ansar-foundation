@@ -251,6 +251,6 @@ div.trans {
       background-image: linear-gradient(to right bottom, red, yellow, red);
   }
 
-  td.d-flex:nth-child(even) {
+  tr.d-flex:nth-child(even) {
     justify-content: end!important;
   }

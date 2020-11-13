@@ -17,7 +17,7 @@
                     </div>
                     <div class="card-body">
                         <table class="table table-striped table-borderless">
-                            <tr>
+                            <tr class="d-dlex">
                                 <td class="d-flex align-items-center">
                                     <img src="/image/policy-front.jpg" alt="" class=""
                                         style="max-height: 300px; width: auto">
@@ -31,7 +31,7 @@
                                     </div>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="d-dlex">
                                 <td class="d-flex align-items-center">
                                     <img src="/image/wall.jpg" alt="" class=""
                                         style="max-height: 300px; width: auto">
@@ -45,7 +45,7 @@
                                     </div>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="d-dlex">
                                 <td class="d-flex align-items-center">
                                     <img src="/image/table.jpg" alt="" class=""
                                         style="max-height: 300px; width: auto">
