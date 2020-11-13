@@ -35,10 +35,11 @@
                             <a class="dropdown-item" href="#">Al-Ansar Masjid</a>
                             <a class="dropdown-item" href="#">Al-Ansar Academy, Maiduguri</a>
                             <a class="dropdown-item" href="#">Al-Ansar University</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Quranic Memorisation School</a>
                             <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
                             <a class="dropdown-item" href="#">Al-Ansar Security Services ltd</a>
                             <a class="dropdown-item" href="#">Al-Ansar Women & Children's Hospital</a>
-                            <a class="dropdown-item" href="#">Al-Ansar cleaning & hygeinic services</a>
+                            <a class="dropdown-item" href="#">Al-Ansar cleaning & hygiene services</a>
                         </div>
                     </li>
                     <li class="nav-item">
