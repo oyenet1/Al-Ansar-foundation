@@ -31,3 +31,7 @@ Route::view('/donate', 'donate')->name('donate');
 Route::post('/pay', 'PaymentController@redirectToGateway')->name('pay');
 Route::get('/thanks', 'PaymentController@handleGatewayCallback');
 Route::view('/thank', 'thank')->name('thank');
+
+// affiliates
+Route::get('/acce', 'ContactController@acce')->name('acce');
+

@@ -45,8 +45,17 @@
                     <li class="nav-item">
                         <a class="nav-link text-uppercase" href="#services">Services</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-uppercase" href="#news">News</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="{{ route('volunteer') }}" id="navbardrop"
+                            data-toggle="dropdown">
+                            Media Center
+                        </a>
+                        <div class="dropdown-menu text-capitalize">
+                            <a class="dropdown-item" href="#">Volunteer Faculty</a>
+                            <a class="dropdown-item" href="#">Volunteer Faculty</a>
+                            <a class="dropdown-item" href="#">Volunteer Mentor</a>
+                            <a class="dropdown-item" href="#">Volunteer Advisors</a>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-uppercase" href="{{ route('contact') }}">Contact</a>
