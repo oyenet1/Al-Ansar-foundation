@@ -29,16 +29,16 @@
                         <a class="nav-link dropdown-toggle" href="" id="navbardrop" data-toggle="dropdown">
                             Organisations
                         </a>
-                        <div class="dropdown-menu text-capitalize">
+                        <div class="dropdown-menu text-uppercase">
                             <a class="dropdown-item" href="#">ACCE ABUJA</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Radio & TV</a>
                             <a class="dropdown-item" href="#">Al-Ansar Masjid</a>
                             <a class="dropdown-item" href="#">Al-Ansar Academy, Maiduguri</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
                             <a class="dropdown-item" href="#">Al-Ansar University</a>
+                            <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
                             <a class="dropdown-item" href="#">Al-Ansar Security Services ltd</a>
-                            <a class="dropdown-item" href="#">Al-Ansar cleaning & hygeinic services</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Radio & TV</a>
                             <a class="dropdown-item" href="#">Al-Ansar Women & Children's Hospital</a>
+                            <a class="dropdown-item" href="#">Al-Ansar cleaning & hygeinic services</a>
                         </div>
                     </li>
                     <li class="nav-item">

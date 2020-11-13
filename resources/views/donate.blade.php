@@ -26,6 +26,17 @@
                         <button class="btn m-1 btn-outline-success paystack-other">Other</button>
                     </fieldset>
 
+                    <fieldset class="m-2">
+                        <legend class="text-success bg-white m-0">Donation Type</legend>
+                        <small class="text-dark d-none1 w-100 m-0 p-0">How often do you want to make this donation</small> <br>
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-success">Apple</button>
+                            <button type="button" class="btn btn-success">Samsung</button>
+                            <button type="button" class="btn btn-success">Sony</button>
+                          </div>
+
+                    </fieldset>
+
                     @php
                     $length = 17;
                     $pool = '1234'. 'al-foundation';
