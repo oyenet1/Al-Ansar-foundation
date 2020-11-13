@@ -30,22 +30,38 @@
                     </a>
                     <div class="dropdown-menu text-uppercase">
                         <a class="dropdown-item" href="#">ACCE ABUJA</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Radio & TV</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Masjid</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Academy, Maiduguri</a>
-                            <a class="dropdown-item" href="#">Al-Ansar University</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Quranic Memorisation School</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Security Services ltd</a>
-                            <a class="dropdown-item" href="#">Al-Ansar Women & Children's Hospital</a>
-                            <a class="dropdown-item" href="#">Al-Ansar cleaning & hygiene services</a>
+                        <a class="dropdown-item" href="#">Al-Ansar Radio & TV</a>
+                        <a class="dropdown-item" href="#">Al-Ansar Masjid</a>
+                        <a class="dropdown-item" href="#">Al-Ansar Academy, Maiduguri</a>
+                        <a class="dropdown-item" href="#">Al-Ansar University</a>
+                        <a class="dropdown-item" href="#">Al-Ansar Quranic Memorisation School</a>
+                        <a class="dropdown-item" href="#">Al-Ansar Academy, Nyanya</a>
+                        <a class="dropdown-item" href="#">Al-Ansar Security Services ltd</a>
+                        <a class="dropdown-item" href="#">Al-Ansar Women & Children's Hospital</a>
+                        <a class="dropdown-item" href="#">Al-Ansar cleaning & hygiene services</a>
                     </div>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link text-uppercase" href="#services">Services</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="" id="navbardrop"
+                        data-toggle="dropdown">
+                        Services
+                    </a>
+                    <div class="dropdown-menu text-capitalize">
+                        <a class="dropdown-item" href="#">Education</a>
+                        <a class="dropdown-item" href="#">Health</a>
+                        <a class="dropdown-item" href="#">Humanitarian Support</a>
+                    </div>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link text-uppercase" href="#news">News</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="{{ route('volunteer') }}" id="navbardrop"
+                        data-toggle="dropdown">
+                        Media Center
+                    </a>
+                    <div class="dropdown-menu text-capitalize">
+                        <a class="dropdown-item" href="#">Latest News</a>
+                    <a class="dropdown-item" href="{{ route('publication.index') }}">Publications</a>
+                        <a class="dropdown-item" href="#">Videos</a>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-uppercase" href="{{ route('contact') }}">Contact</a>
@@ -59,7 +75,6 @@
                         Volunteer
                     </a>
                     <div class="dropdown-menu text-capitalize">
-                        <a class="dropdown-item" href="#">Volunteer Faculty</a>
                         <a class="dropdown-item" href="#">Volunteer Faculty</a>
                         <a class="dropdown-item" href="#">Volunteer Mentor</a>
                         <a class="dropdown-item" href="#">Volunteer Advisors</a>

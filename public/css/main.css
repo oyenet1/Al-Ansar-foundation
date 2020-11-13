@@ -118,7 +118,7 @@ a.link {
 }
 
 .bg-trans {
-  background-color: rgba(50, 250, 150, 0.7);
+  background-image: linear-gradient(to right bottom, #10ff0a, yellow, green);
 }
 
 .mt-up {

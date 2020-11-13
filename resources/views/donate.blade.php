@@ -3,11 +3,11 @@
 @section('content')
     @include('nav')
     <div class="container-fluid bg-milk4">
-        <div class="container"
-            style="background-image: url('/image/money2.jpg'); background-attachment: fixed; background-size: cover">
-            <div class="row justify-content-center p-3" style="background-color: rgba(200, 200, 200, .5)">
+        <div class="container "
+            style="background-image: url('/image34/money2.jpg'); background-attachment: fixed; background-size: cover; opacity: 1;">
+            <div class="row justify-content-center p-3 bg-btn" style="background-color: rgba(200, 200, 200, .5); ">
                 <div class="col-12 m-0">
-                    <h2 class="head m-0 alfa anton text-white">Make a Donation</h2>
+                    <h2 class="head m-0 alfa anton text-success">Make a Donation</h2>
                     <p></p>
                 </div>
                 <div class="col-lg-6 p-1 rounded m-0">
@@ -15,9 +15,19 @@
                 </div>
                 <div class="col-lg-6 m-0 bg-milk p-2 rounded">
 
-                    <h4>Help Build This Foundation</h4>
+                    <h4 class="text-center">Help Reach out to the Vulnerable</h4>
+
                     <fieldset class="m-2">
-                        <legend class="text-success bg-white">Paysatck Payment Gateway</legend>
+                        <legend class="text-success bg-white m-0">Donors Details</legend>
+                        <div class="form-group">
+                          <input type="text" name="name" id="name" class="form-control" placeholder="Name optional">
+                        </div>
+                        <div class="form-group">
+                          <input type="email" name="email" id="email" class="form-control" placeholder="Email Address optional">
+                        </div>
+                    </fieldset>
+                    <fieldset class="m-2">
+                        <legend class="text-success bg-white">Amount</legend>
                         <button class="btn m-1 btn-outline-success paystack-1000">&#8358;1,000</button>
                         <button class="btn m-1 btn-success paystack-5000">&#8358;5,000</button>
                         <button class="btn m-1 btn-outline-success paystack-10000">&#8358;10,000</button>
@@ -30,9 +40,34 @@
                         <legend class="text-success bg-white m-0">Donation Type</legend>
                         <small class="text-dark d-none1 w-100 m-0 p-0">How often do you want to make this donation</small> <br>
                         <div class="btn-group">
-                            <button type="button" class="btn btn-success">Apple</button>
-                            <button type="button" class="btn btn-success">Samsung</button>
-                            <button type="button" class="btn btn-success">Sony</button>
+                            <button type="button" class="btn btn-outline-success">
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                      <input type="radio" class="form-check-input" value="1" name="optradio">One Time
+                                    </label>
+                                  </div>
+                            </button>
+                            <button type="button" class="btn btn-outline-success">
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                      <input type="radio" class="form-check-input" value="weekly" name="optradio">Weekly
+                                    </label>
+                                  </div>
+                            </button>
+                            <button type="button" class="btn btn-outline-success">
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                      <input type="radio" class="form-check-input" value="monthly" name="optradio">Monthly
+                                    </label>
+                                  </div>
+                            </button>
+                            <button type="button" class="btn btn-outline-success">
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                      <input type="radio" class="form-check-input" value="yearly" name="optradio">Yearly
+                                    </label>
+                                  </div>
+                            </button>
                           </div>
 
                     </fieldset>
