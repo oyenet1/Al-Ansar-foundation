@@ -22,14 +22,15 @@
 
 // donate buutton
 .nav-item a.donate {
-    color:rgb(10, 150, 20)!important;
+    color: rgb(10, 150, 20) !important;
     font-weight: 700 !important;
     display: block;
-    border-color: rgb(10, 150, 20)!important;
+    border-color: rgb(10, 150, 20) !important;
 }
+
 .nav-item a.donate:hover {
-    color:white!important;
-    background-color: rgb(10, 150, 20)!important;
+    color: white !important;
+    background-color: rgb(10, 150, 20) !important;
     transition: 1s;
 }
 
@@ -56,9 +57,11 @@ a {
     font-weight: 400;
     font-style: normal;
 }
-.roboto, body {
+
+.roboto,
+body {
     font-family: 'Roboto Slab', serif;
-    font-weight: 500!important;
+    font-weight: 500 !important;
     font-style: normal;
 }
 
@@ -195,20 +198,22 @@ div.alert-botto {
 
 // styling the link
 .nav-item a {
-    color: black!important;
+    color: black !important;
 
 }
-.nav-item a:hover, .nav-item a:active {
-    color: rgb(10, 150, 20)!important;
+
+.nav-item a:hover,
+.nav-item a:active {
+    color: rgb(10, 150, 20) !important;
     transition: 1s;
 }
 
 div.trans {
-    background-color: rgba(0, 0, 0, .5)!important;
+    background-color: rgba(0, 0, 0, .5) !important;
 }
 
 .pad-5 {
-    padding: 5rem!important;
+    padding: 5rem !important;
 }
 
 /* Style the tab */
@@ -216,10 +221,10 @@ div.trans {
     overflow: hidden;
     border: 1px solid #ccc;
     background-color: #f1f1f1;
-  }
+}
 
-  /* Style the buttons that are used to open the tab content */
-  .tab button {
+/* Style the buttons that are used to open the tab content */
+.tab button {
     background-color: inherit;
     float: left;
     border: none;
@@ -227,30 +232,35 @@ div.trans {
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
-  }
+}
 
-  /* Change background color of buttons on hover */
-  .tab button:hover {
+/* Change background color of buttons on hover */
+.tab button:hover {
     background-color: #ddd;
-  }
+}
 
-  /* Create an active/current tablink class */
-  .tab button.active {
+/* Create an active/current tablink class */
+.tab button.active {
     background-color: #ccc;
-  }
+}
 
-  /* Style the tab content */
-  .tabcontent {
+/* Style the tab content */
+.tabcontent {
     display: none;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
-  }
+}
 
-  .bg-btn {
-      background-image: linear-gradient(to right bottom, red, yellow, red);
-  }
+.bg-btn {
+    background-image: linear-gradient(to right bottom, red, yellow, red);
+}
 
-  tr.d-flex:nth-child(even) {
-    justify-content: end!important;
-  }
+tr.d-flex:nth-child(even) {
+    justify-content: end !important;
+}
+
+span.big {
+    font-size: 3em;
+    width: 250px !important;
+}
