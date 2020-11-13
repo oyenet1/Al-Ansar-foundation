@@ -40,3 +40,6 @@ Route::get('/video', 'VideoController@index')->name('video.index');
 
 // board ofmtrustees
 Route::get('/board', 'BoardController@index')->name('board.index');
+
+// teams
+Route::get('/team', 'TeamController@index')->name('team.index');

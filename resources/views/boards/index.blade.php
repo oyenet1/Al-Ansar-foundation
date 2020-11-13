@@ -19,7 +19,7 @@
             <div class="row justify-content-center">
                 <div class="col-sm-6 col-lg-4 p-3 text-center">
                     <a href="" class="text-black trustee">
-                        <img src="/image/dikwa.jpg" alt="" class="w-100 img-thumbnail rounded-circle">
+                        <img src="/image/dikwa.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
                         <h5>Dr. M.K. Dikwa, mni, Ph.D., FCNA, FCTI, FCMA, FCPA, FICA, MNIM, MCIPS, ACA.</h5>
                         <p class="text-secondary">Founder & President</p>
                     </a>
@@ -28,29 +28,29 @@
             <div class="row justify-content-center">
                 <div class="col-sm-6 col-lg-4 p-3 text-center d-block">
                     <a href="" class="text-black trustee">
-                        <img src="/image/trustee3.jpg" alt="" class="w-100 img-thumbnail rounded-circle">
-                        <h5>Dr. M.K. Dikwa, mni, Ph.D., FCNA, FCTI, FCMA, FCPA, FICA, MNIM, MCIPS, ACA.</h5>
+                        <img src="/image/trustee3.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
+                        <h5>Mohammed Baba Shehu</h5>
                         <p class="text-secondary">Trustee</p>
                     </a>
                 </div>
                 <div class="col-sm-6 col-lg-4 p-3 text-center d-block">
                     <a href="" class="text-black trustee">
-                        <img src="/image/trustee4.jpg" alt="" class="w-100 img-thumbnail rounded-circle">
-                        <h5>Dr. M.K. Dikwa, mni, Ph.D., FCNA, FCTI, FCMA, FCPA, FICA, MNIM, MCIPS, ACA.</h5>
+                        <img src="/image/trustee4.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
+                        <h5>Engr. Abdulmalik Mohammed Kyari</h5>
                         <p class="text-secondary">Trustee</p>
                     </a>
                 </div>
                 <div class="col-sm-6 col-lg-4 p-3 text-center d-block">
                     <a href="" class="text-black trustee">
-                        <img src="/image/trustee1.jpg" alt="" class="w-100 img-thumbnail rounded-circle">
-                        <h5>Dr. M.K. Dikwa, mni, Ph.D., FCNA, FCTI, FCMA, FCPA, FICA, MNIM, MCIPS, ACA.</h5>
+                        <img src="/image/trustee1.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
+                        <h5>Ibrahim Hamza</h5>
                         <p class="text-secondary">Trustee</p>
                     </a>
                 </div>
                 <div class="col-sm-6 col-lg-4 p-3 text-center d-block">
                     <a href="" class="text-black trustee">
-                        <img src="/image/trustee2.jpg" alt="" class="w-100 img-thumbnail rounded-circle">
-                        <h5>Dr. M.K. Dikwa, mni, Ph.D., FCNA, FCTI, FCMA, FCPA, FICA, MNIM, MCIPS, ACA.</h5>
+                        <img src="/image/trustee2.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
+                        <h5>Alhaji Muhammad Kyari</h5>
                         <p class="text-secondary">Trustee</p>
                     </a>
                 </div>

@@ -29,7 +29,7 @@
                         <div class="dropdown-menu text-capitalize">
                             <a class="dropdown-item" href="{{ route('about') }}">About Us</a>
                             <a class="dropdown-item" href="{{ route('board.index') }}">Board of trustees</a>
-                            <a class="dropdown-item" href="#">management team</a>
+                            <a class="dropdown-item" href="{{ route('team.index') }}">management team</a>
                         </div>
                     </li>
                     <!-- Dropdown -->
