@@ -51,10 +51,9 @@
                             Media Center
                         </a>
                         <div class="dropdown-menu text-capitalize">
-                            <a class="dropdown-item" href="#">Volunteer Faculty</a>
-                            <a class="dropdown-item" href="#">Volunteer Faculty</a>
-                            <a class="dropdown-item" href="#">Volunteer Mentor</a>
-                            <a class="dropdown-item" href="#">Volunteer Advisors</a>
+                            <a class="dropdown-item" href="#">Latest News</a>
+                            <a class="dropdown-item" href="#">Publications</a>
+                            <a class="dropdown-item" href="#">Videos</a>
                         </div>
                     </li>
                     <li class="nav-item">
