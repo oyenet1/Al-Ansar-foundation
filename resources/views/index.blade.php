@@ -28,7 +28,6 @@
                                 aria-valuemin="0" aria-valuemax="100" style="width:60%">
                             </div>
                         </div>
-
                     </div>
                     <div class="w-100 my-3">
                         <p class="percent text-uppercase m-0 pb-1">AL-ANSAR ACADEMY NYANYA<span

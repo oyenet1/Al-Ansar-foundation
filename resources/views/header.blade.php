@@ -21,8 +21,16 @@
                     <li class="nav-item">
                         <a class="nav-link text-uppercase" href="/">Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-uppercase" href="{{ route('about') }}">About</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="{{ route('volunteer') }}" id="navbardrop"
+                            data-toggle="dropdown">
+                            who we are
+                        </a>
+                        <div class="dropdown-menu text-capitalize">
+                            <a class="dropdown-item" href="{{ route('about') }}">About Us</a>
+                            <a class="dropdown-item" href="#">Board of trustees</a>
+                            <a class="dropdown-item" href="#">management team</a>
+                        </div>
                     </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
