@@ -42,8 +42,16 @@
                             <a class="dropdown-item" href="#">Al-Ansar cleaning & hygiene services</a>
                         </div>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-uppercase" href="#services">Services</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="" id="navbardrop"
+                            data-toggle="dropdown">
+                            Services
+                        </a>
+                        <div class="dropdown-menu text-capitalize">
+                            <a class="dropdown-item" href="#">Education</a>
+                            <a class="dropdown-item" href="#">Health</a>
+                            <a class="dropdown-item" href="#">Humanitarian Support</a>
+                        </div>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="{{ route('volunteer') }}" id="navbardrop"
@@ -68,7 +76,6 @@
                             Volunteer
                         </a>
                         <div class="dropdown-menu text-capitalize">
-                            <a class="dropdown-item" href="#">Volunteer Faculty</a>
                             <a class="dropdown-item" href="#">Volunteer Faculty</a>
                             <a class="dropdown-item" href="#">Volunteer Mentor</a>
                             <a class="dropdown-item" href="#">Volunteer Advisors</a>
