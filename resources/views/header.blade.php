@@ -52,7 +52,7 @@
                         </a>
                         <div class="dropdown-menu text-capitalize">
                             <a class="dropdown-item" href="#">Latest News</a>
-                            <a class="dropdown-item" href="#">Publications</a>
+                        <a class="dropdown-item" href="{{ route('publication.index') }}">Publications</a>
                             <a class="dropdown-item" href="#">Videos</a>
                         </div>
                     </li>

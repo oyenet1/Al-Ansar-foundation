@@ -33,6 +33,8 @@ Route::get('/thanks', 'PaymentController@handleGatewayCallback');
 Route::view('/thank', 'thank')->name('thank');
 
 // affiliates
-Route::get('/acce', 'PublictionController@acce')->name('acce');
-Route::get('/acce', 'PublictionController@acce')->name('acce');
+Route::get('/publication', 'PublicationController@index')->name('publication.index');
+
+// videos
+Route::get('/video', 'VideoController@index')->name('video.index');
 
