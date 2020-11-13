@@ -38,3 +38,5 @@ Route::get('/publication', 'PublicationController@index')->name('publication.ind
 // videos
 Route::get('/video', 'VideoController@index')->name('video.index');
 
+// board ofmtrustees
+Route::get('/board', 'BoardController@index')->name('board.index');
