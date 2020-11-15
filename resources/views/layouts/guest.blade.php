@@ -82,7 +82,7 @@
                                 <i class="fas fa-map text-color-2"></i>
                             </td>
                             <td class="text-capitalize">
-                                No 1 gombole road, old gra Maiduguri. Borno state <span class="text-uppercase">ibb</span> way Maitama, Abuja.
+                                No 1 gombole road, old gra Maiduguri. Borno state
                             </td>
                         </tr>
                         <tr>
