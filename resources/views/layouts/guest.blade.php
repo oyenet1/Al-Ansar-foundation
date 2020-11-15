@@ -152,14 +152,19 @@
                         </li>
 
                         <li>
-                            <a href="http://www.al-ansar-foundation.com" class="link d-flex align-items-center"
+                            <a href="https://www.acce-abuja.com.ng" class="link d-flex align-items-center"
                                 target="_black"><img src="/image/al-foundation.jpg" alt="" class="site rounded-circle"
-                                    style="max-width: 30px; margin: 3px"> <span>Al-Ansar Foundation</span></a>
+                                    style="max-width: 30px; margin: 3px"> <span>ACCE Abuja</span></a>
                         </li>
                         <li>
                             <a href="{{ route('home') }}" class="link d-flex align-items-center" target="_black"><img
                                     src="/image/al-university.jpg" alt="" class="site rounded-circle"
                                     style="max-width: 30px; margin: 3px"> <span>Al-Ansar University</span></a>
+                        </li>
+                        <li>
+                            <a href="{{ route('home') }}" class="link d-flex align-items-center" target="_black"><img
+                                    src="/image/al-university.jpg" alt="" class="site rounded-circle"
+                                    style="max-width: 30px; margin: 3px"> <span>Al-Ansar quranic memorisation school</span></a>
                         </li>
                         <li>
                             <a href="{{ Route('home') }}" class="link d-flex align-items-center" target="_black"><img
@@ -178,6 +183,11 @@
                         </li>
                         <li>
                             <a href="{{ Route('home') }}" class="link d-flex align-items-center" target="_black"><img
+                                    src="/image/al-nyanya.jpg" alt="" class="site rounded-circle"
+                                    style="max-width: 30px; margin: 3px"> <span> Al-Ansar Academy, Maiduguri</span></a>
+                        </li>
+                        <li>
+                            <a href="{{ Route('home') }}" class="link d-flex align-items-center" target="_black"><img
                                     src="/image/al-achs.jpg" alt="" class="site rounded-circle"
                                     style="max-width: 30px; margin: 3px"> <span> Al-Ansar Cleaning & Hygiene Services
                                     Ltd</span></a>
@@ -191,7 +201,7 @@
                         <li>
                             <a href="{{ Route('home') }}" class="link d-flex align-items-center" target="_black"><img
                                     src="/image/al-hospital.jpg" alt="" class="site rounded-circle"
-                                    style="max-width: 30px; margin: 3px"> <span> Al-Ansar Women & Children
+                                    style="max-width: 30px; margin: 3px"> <span> Al-Ansar Women & Children's
                                     Hospital</span></a>
                         </li>
                     </ul>
@@ -216,7 +226,6 @@
                 $("carousel-caption").hide();
             });
         });
-
     </script>
 </body>
 

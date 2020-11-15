@@ -50,7 +50,7 @@
 
                     </div>
                     <div class="w-100 my-3">
-                        <p class="percent text-uppercase m-0 pb-1">AL-ANSAR wOMEN & CHILDREN HOSPITAL<span
+                        <p class="percent text-uppercase m-0 pb-1">AL-ANSAR wOMEN & CHILDREN's HOSPITAL<span
                                 class="text-capitalize float-right">90 patients</span> </p>
                         <div class="progress" style="height: 8px">
                             <div class="progress-bar  bg-success bg-color" role="progressbar" aria-valuenow="40"
@@ -76,7 +76,7 @@
                     <div class="card bg-white px-3 pt-3">
                         <img class="card-img-top" src="/image/acce.png" alt="acce" class="">
                         <div class="card-body p-0 text-center">
-                            <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Center for comprehensive education</h5>
+                            <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Centre for comprehensive education</h5>
                             <a href="https://acce-abuja.com.ng/" class="btn btn-sm btn-success my-2 stretched-link d-none"
                                 target="_blank">Visit</a>
                         </div>
@@ -137,7 +137,7 @@
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/awh.jpg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
-                            <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar women and children hospital</h5>
+                            <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar women and children's hospital</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
                         </div>
