@@ -8,7 +8,8 @@
         <div class="container">
             <div class="row justify-content-center p-5">
                 <div class="col-lg-6 p-1">
-                    <h5 class="text-uppercase text-success" style="font-size: 2em">Welcome to <br><br> <span class="big text-dark teko ">Al-Ansar  <br> Foundation</span></h5>
+                    <h5 class="text-uppercase text-success" style="font-size: 2em">Welcome to <br><br> <span
+                            class="big text-dark teko ">Al-Ansar <br> Foundation</span></h5>
                 </div>
                 <div class="col-lg-6 p-1">
                     <div class="w-100 mb-3">
@@ -64,6 +65,21 @@
         </div>
     </div>
 
+    {{-- radio station --}}
+    <div class="container-fluid mt-n5">
+        <div class="container bg-trans mt-n5 bg-white">
+            <div class="row justify-content-start pb-5">
+                <div class="col-sm-12 text-center bg-trans p-1">
+                    <h4 style="border-bottom: 5px">Live stream on Al-Ansar Radio <span class="text-success">96.1 FM</span>
+                        <audio id="audio_1" controls preload="none" style="width:16em;padding:0;"
+                            class="mx-md-3 mx-lg-4 mx-sm-2 mx-1 btn alert-success">
+                            <source src="/stream?type=http&amp;nocache=52" type='audio/mpeg'>
+                        </audio>
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
     {{-- organisation --}}
     <div class="container-fluid bg-milk" id="service">
         <div class="container margin-negative bg-milk">
