@@ -56,6 +56,20 @@
                 </div>
                 <div class="col-sm-6 col-lg-4 p-3 text-center d-block">
                     <a href="" class="text-black trustee">
+                        <img src="/image/trustee5.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
+                        <h5>Alhaji Mustapha Goni</h5>
+                        <p class="text-secondary">Trustee</p>
+                    </a>
+                </div>
+                <div class="col-sm-6 col-lg-4 p-3 text-center d-block">
+                    <a href="" class="text-black trustee">
+                        <img src="/image/trustee6.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
+                        <h5>Babagana Mammam Kyari</h5>
+                        <p class="text-secondary">Trustee</p>
+                    </a>
+                </div>
+                <div class="col-sm-6 col-lg-4 p-3 text-center d-block">
+                    <a href="" class="text-black trustee">
                         <img src="/image/trustee7.jpg" alt="" class="w-100 img-thumbnail mb-2 rounded-circle">
                         <h5>Barr. Isa Buratai</h5>
                         <p class="text-secondary">Trustee</p>
