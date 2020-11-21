@@ -4,6 +4,20 @@
 
     {{-- header with video --}}
     @include('header')
+
+    {{-- brief details --}}
+    <div class="container-fluid text-white" style="background-image: linear-gradient(125deg,#23eeaa, red,yellow)">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 p-5 justify-content-between">
+                    <h3>We are Nigeria's number one humanitarian support Foundation providing service to humanity.</h3>
+                    <a href="{{ route('about') }}" class="btn bg-white text-success" style="max-width: fit-content">Read
+                        More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container-fluid bg-white negative" id="about">
         <div class="container">
             <div class="row justify-content-center p-5">
@@ -51,7 +65,7 @@
 
                     </div>
                     <div class="w-100 my-3">
-                        <p class="percent text-uppercase m-0 pb-1">AL-ANSAR wOMEN & CHILDREN's HOSPITAL<span
+                        <p class="percent text-uppercase m-0 pb-1">AL-ANSAR wOMEN & CHILDREN HOSPITAL<span
                                 class="text-capitalize float-right">90 patients</span> </p>
                         <div class="progress" style="height: 8px">
                             <div class="progress-bar  bg-success bg-color" role="progressbar" aria-valuenow="40"
@@ -80,6 +94,7 @@
             </div>
         </div>
     </div>
+
     {{-- organisation --}}
     <div class="container-fluid bg-milk" id="service">
         <div class="container margin-negative bg-milk">
@@ -92,7 +107,7 @@
                     <div class="card bg-white px-3 pt-3">
                         <img class="card-img-top" src="/image/acce.png" alt="acce" class="">
                         <div class="card-body p-0 text-center">
-                            <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Centre for comprehensive education</h5>
+                            <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Center for comprehensive education</h5>
                             <a href="https://acce-abuja.com.ng/" class="btn btn-sm btn-success my-2 stretched-link d-none"
                                 target="_blank">Visit</a>
                         </div>
@@ -153,7 +168,7 @@
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/awh.jpg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
-                            <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar women and children's hospital</h5>
+                            <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar women and children hospital</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
                         </div>
@@ -195,7 +210,7 @@
 
 
     {{-- news --}}
-    <div class="container-fluid bg-white">
+    {{-- <div class="container-fluid bg-white">
         <div class="container p-5">
             <div class="row justify-content-center">
                 <div class="col-12">
@@ -222,7 +237,7 @@
             </div>
         </div>
 
-    </div>
+    </div> --}}
 
     {{-- Contact us --}}
     <div class="container-fluid bg-milk4" id="contact">
