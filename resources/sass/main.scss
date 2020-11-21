@@ -268,3 +268,37 @@ span.big {
  a.trustee, .trustee {
      color: #00aa0a;
  }
+
+ hr.hr {
+     padding: 2px;
+ }
+
+//  carouse indicator
+.carousel-indicators li {
+    width: 18px!important;
+    //height: 10px!important;
+    border-radius: 50%;
+    background: #2ca;
+}
+
+.org {
+    background-color: rgba(230, 235, 230, .6);
+}
+.org2 {
+   // background-color: rgba(200, 255, 250, .7);
+    box-shadow: rgba(0, 5, 0, 1)!important;
+}
+
+.text-orange {
+    color: rgba(255, 120, 25, 1);
+}
+img.org {
+    max-width: 70%;
+}
+
+.dark-green {
+    color: rgb(0, 140, 20);
+}
+.dark-blue {
+    color: rgb(0, 30, 100);
+}
