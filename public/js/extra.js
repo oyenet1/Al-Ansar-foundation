@@ -195,7 +195,7 @@ document.getElementById("defaultOpen").click(); // radio
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\chris\OneDrive\Documents\Al-Ansar-foundation\resources\js\extra.js */"./resources/js/extra.js");
+module.exports = __webpack_require__(/*! C:\github\Al-Ansar-foundation\resources\js\extra.js */"./resources/js/extra.js");
 
 
 /***/ })

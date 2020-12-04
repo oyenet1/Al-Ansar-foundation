@@ -262,3 +262,42 @@ a.trustee,
   color: #00aa0a;
 }
 
+hr.hr {
+  padding: 2px;
+}
+
+.carousel-indicators li {
+  width: 18px !important;
+  border-radius: 50%;
+  background: #2ca;
+}
+
+.org {
+  background-color: rgba(230, 235, 230, 0.6);
+}
+
+.org2 {
+  box-shadow: #000500 !important;
+}
+
+.text-orange {
+  color: #ff7819;
+}
+
+img.org {
+  max-width: 70%;
+}
+
+.dark-green {
+  color: #008c14;
+}
+
+.dark-blue {
+  color: #001e64;
+}
+
+a.news:hover {
+  color: #10ff0a !important;
+  transition: 0.7s;
+}
+

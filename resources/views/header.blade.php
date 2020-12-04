@@ -52,7 +52,7 @@
                             Media Center
                         </a>
                         <div class="dropdown-menu text-capitalize">
-                            <a class="dropdown-item" href="#">Latest News</a>
+                            <a class="dropdown-item" href="{{ route('news.index') }}">Latest News</a>
                         <a class="dropdown-item" href="{{ route('publication.index') }}">Publications</a>
                             <a class="dropdown-item" href="#">Videos</a>
                         </div>

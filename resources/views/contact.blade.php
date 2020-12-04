@@ -4,7 +4,7 @@
     @include('nav')
     {{-- Contact us --}}
     <div class="container-fluid bg-milk4" id="contact">
-        <div class="row justify-content-center bg-trans z-index-n1">
+        <div class="row justify-content-center bg-trans z-index-n1" style="background-image: url('/image/build2.jpg')">
             <div class="col-12 p-100">
                 <h1 class="text-capitalize head text-center teko">Contact Us</h1>
             </div>
