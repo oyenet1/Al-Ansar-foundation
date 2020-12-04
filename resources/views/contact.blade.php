@@ -4,12 +4,23 @@
     @include('nav')
     {{-- Contact us --}}
     <div class="container-fluid bg-milk4" id="contact">
-        <div class="row justify-content-center bg-trans z-index-n1" style="background-image: url('/image/build2.jpg')">
+        <div class="row justify-content-center bg-trans z-index-n1" style="background-image: url('/image/build2.jpg'); background-size: 100% auto; background-attachment: fixed; background-repeat: no-repeat">
             <div class="col-12 p-100">
-                <h1 class="text-capitalize head text-center teko">Contact Us</h1>
+                <h1 class="text-capitalize head text-center teko text-success">Contact Us</h1>
             </div>
         </div>
         <div class="container mt-up bg-white">
+            <div class="row justify-content-center bg-milk">
+                <div class=" d-none d-md-block col-md-3 p-3">
+                    <img src="/image/inau2.jpg" alt="" class="w-100">
+                </div>
+                <div class=" d-none d-md-block col-md-3 p-3">
+                    <img src="/image/build.jpg" alt="" class="w-100">
+                </div>
+                <div class=" d-none d-md-block col-md-3 p-3">
+                    <img src="/image/inau.jpg" alt="" class="w-100">
+                </div>
+            </div>
             <div class="row justify-content-center p-2 back">
                 <div class="col-lg-6 p-0">
                     <iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"

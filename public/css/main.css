@@ -108,17 +108,15 @@ a.link {
 }
 
 .p-100 {
-  padding: 150px;
+  padding: 15vw;
   border-bottom: 2rem;
-  border-style: solid;
-  border-color: #0a9614;
   border-left: 0;
   border-right: 0;
   border-top: 0;
 }
 
 .bg-trans {
-  background-image: linear-gradient(to right bottom, #10ff0a, yellow, green);
+  background-color: #64fa32;
 }
 
 .mt-up {

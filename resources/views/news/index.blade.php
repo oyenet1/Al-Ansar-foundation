@@ -26,7 +26,7 @@
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 p-2 p-md-3 p-lg-4">
-                    <a href="#" class="text-dark news">
+                <a href="{{ route('news.inau') }}" class="text-dark news">
                         <div class="card text-left">
                             <img class="card-img-top" src="/image/11.jpg" alt="">
                             <div class="card-body">
@@ -38,7 +38,7 @@
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 p-2 p-md-3 p-lg-4">
-                    <a href="#" class="text-dark news">
+                    <a href="{{ route('news.inau') }}" class="text-dark news">
                         <div class="card text-left">
                             <img class="card-img-top" src="/image/inau.jpg" alt="">
                             <div class="card-body">

@@ -35,6 +35,7 @@ Route::view('/thank', 'thank')->name('thank');
 // affiliates
 Route::get('/publication', 'PublicationController@index')->name('publication.index');
 Route::get('/news', 'NewsController@index')->name('news.index');
+Route::get('/inaugurate', 'NewsController@inau')->name('news.inau');
 
 // videos
 Route::get('/video', 'VideoController@index')->name('video.index');
