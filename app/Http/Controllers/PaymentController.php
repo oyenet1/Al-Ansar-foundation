@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 use Paystack;
+use Illuminate\Support\Facades\Redirect;
 
 class PaymentController extends Controller
 {
