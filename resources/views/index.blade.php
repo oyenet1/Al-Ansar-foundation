@@ -23,7 +23,7 @@
             <div class="row justify-content-center p-5">
                 <div class="col-lg-6 p-1">
                     <h5 class="text-uppercase text-success" style="font-size: 2em">Welcome to <br><br> <span
-                            class="big text-dark teko ">Al-Ansar <br> Foundation</span></h5>
+                            class=" text-dark teko ">Al-Ansar <br> Foundation</span></h5>
                 </div>
                 <div class="col-lg-6 p-1">
                     <div class="w-100 mb-3">
@@ -98,12 +98,12 @@
     {{-- organisation --}}
     <div class="container-fluid bg-milk" id="service">
         <div class="container margin-negative bg-milk">
-            <div class="row justify-content-start p-5 ">
+            <div class="row justify-content-center p-5 ">
                 <div class="col-12 mb-1">
-                    <h1 class="text-capitalize head text-center p-md-3 teko">Our affiliates</h1>
+                    <h1 class="text-capitalize head text-center p-md-3 teko">Subsidiaries</h1>
                 </div>
                 <hr class="bg-dark w-100">
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white px-3 pt-3">
                         <img class="card-img-top" src="/image/acce.png" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -113,7 +113,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/aau.jpg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -123,7 +123,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/aam.jpeg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -133,7 +133,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/aan.jpg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -143,7 +143,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/atv.jpg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -154,7 +154,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/assl.jpg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -164,7 +164,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/awh.jpg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -174,7 +174,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/achs.jpeg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -184,7 +184,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/aqms.jpeg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
@@ -194,7 +194,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-2 col-sm-6 p-3">
+                <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/amf.jpeg" alt="acce" class="">
                         <div class="card-body p-0 text-center">
