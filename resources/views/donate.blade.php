@@ -7,7 +7,7 @@
             style="background-image: url('/image34/money2.jpg'); background-attachment: fixed; background-size: cover; opacity: 1;">
             <div class="row justify-content-center p-3 bg-btn" style="background-color: rgba(200, 200, 200, .5); ">
                 <div class="col-12 m-0">
-                    <h2 class="head m-0 alfa anton text-success">Make a Donation</h2>
+                    <h2 class="head m-0 alfa anton text-white text-center">Make a Donation</h2>
                     <p></p>
                 </div>
                 <div class="col-lg-6 p-1 rounded m-0">
@@ -15,10 +15,10 @@
                 </div>
                 <div class="col-lg-6 m-0 bg-milk p-2 rounded">
 
-                    <h4 class="text-center">Help Reach out to the Vulnerable</h4>
+                    <h4 class="text-center">Help reach out to the Vulnerable</h4>
 
                     <fieldset class="m-2">
-                        <legend class="text-success bg-white m-0">Donors Details</legend>
+                        <legend class="text-success bg-white m-0">Donor's Details</legend>
                         <div class="form-group">
                           <input type="text" name="name" id="name" class="form-control" placeholder="Name optional">
                         </div>

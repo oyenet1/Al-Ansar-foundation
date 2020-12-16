@@ -8,8 +8,7 @@
         </a>
 
         <!-- Toggler/collapsibe Button -->
-        <button class="navbar-toggler bg-orange" type="button" data-toggle="collapse"
-            data-target="#collapsibleNavbar">
+        <button class="navbar-toggler bg-orange" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon text-white"></span>
         </button>
 
@@ -32,17 +31,18 @@
                     </div>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link text-uppercase" href="{{ route('organisation') }}">Organisations</a>
+                    <a class="nav-link text-uppercase" href="{{ route('organisation') }}">Organisations</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="" id="navbardrop"
-                        data-toggle="dropdown">
+                    <a class="nav-link dropdown-toggle" href="" id="navbardrop" data-toggle="dropdown">
                         Services
                     </a>
                     <div class="dropdown-menu text-capitalize">
                         <a class="dropdown-item" href="#">Education</a>
                         <a class="dropdown-item" href="#">Health</a>
                         <a class="dropdown-item" href="#">Humanitarian Support</a>
+                        <a class="dropdown-item" href="#">Information</a>
+                        <a class="dropdown-item" href="#">Security</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -52,7 +52,7 @@
                     </a>
                     <div class="dropdown-menu text-capitalize">
                         <a class="dropdown-item" href="{{ route('news.index') }}">Latest News</a>
-                    <a class="dropdown-item" href="{{ route('publication.index') }}">Publications</a>
+                        <a class="dropdown-item" href="{{ route('publication.index') }}">Publications</a>
                         <a class="dropdown-item" href="#">Videos</a>
                     </div>
                 </li>

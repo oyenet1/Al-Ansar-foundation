@@ -31,7 +31,7 @@
                         </li>
                         <li>
                             <h5 class="trustee">Engr. Abdulmalik Mohammed Kyari</h5>
-                            <p>Director ICT</p>
+                            <p>Director ICT / Procurement</p>
                         </li>
                         <li>
                             <h5 class="trustee">Aliyu Waziri</h5>

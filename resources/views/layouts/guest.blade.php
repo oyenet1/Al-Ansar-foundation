@@ -120,7 +120,7 @@
                             <li class="list-inline-item m-2">
                                 <a href="https://twitter.com/acce_abuja"
                                     class="d-flex align-items-center tw text-decoration-none icon-color-2"
-                                    target="_blank"><i class="fab fa-twitter-square fa-2x mr-2  "></i>
+                                    target="_blank"><i class="fab fa-twitter-square fa-2x mr-2 "></i>
                                     <span class="text-white">Twitter</span>
                                 </a>
                             </li> <br>
@@ -142,7 +142,7 @@
                 </div>
                 <div class="p-2" style="max-width: 300px;">
                     <h4 class="teko text-success">
-                        Affiliate Links
+                       Subsidiaries
                     </h4>
                     <ul class="list-unstyled">
                         <li>

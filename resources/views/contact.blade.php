@@ -6,7 +6,7 @@
     <div class="container-fluid bg-milk4" id="contact">
         <div class="row justify-content-center bg-trans z-index-n1" style="background-image: url('/image/build2.jpg'); background-size: 100% auto; background-attachment: fixed; background-repeat: no-repeat">
             <div class="col-12 p-100">
-                <h1 class="text-capitalize head text-center teko text-success">Contact Us</h1>
+                <h1 class="text-capitalize head text-center teko text-success d-none">Contact Us</h1>
             </div>
         </div>
         <div class="container mt-up bg-white">
@@ -38,6 +38,7 @@
                     @endif
                     <form action=" {{ route('contact.store') }} " class="m-0 py-3 px-2" method="POST">
                         @csrf
+                        <h2 class="text-capitalize head text-center teko text-success">Contact Us</h2>
                         <div class="form-group d-flex justify-content-between row">
                             <div class="form-group col-md-6">
                                 <input type="text" name="name" id="" class="form-control" placeholder="Name"

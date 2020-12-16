@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-12 p-5 justify-content-between">
                     <h3>We are Nigeria's number one humanitarian support Foundation providing service to humanity.</h3>
-                    <a href="{{ route('about') }}" class="btn bg-white text-success" style="max-width: fit-content">Read
+                    <a href="{{ route('about') }}" class="btn bg-white text-success text-center d-block mx-auto" style="max-width: fit-content">Read
                         More</a>
                 </div>
             </div>
@@ -23,7 +23,7 @@
             <div class="row justify-content-center p-5">
                 <div class="col-lg-6 p-1">
                     <h5 class="text-uppercase text-success" style="font-size: 2em">Welcome to <br><br> <span
-                            class=" text-dark teko ">Al-Ansar <br> Foundation</span></h5>
+                            class="text-dark teko ">Al-Ansar <br> Foundation</span></h5>
                 </div>
                 <div class="col-lg-6 p-1">
                     <div class="w-100 mb-3">
@@ -106,8 +106,8 @@
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white px-3 pt-3">
                         <img class="card-img-top" src="/image/acce.png" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
-                            <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Center for comprehensive education</h5>
+                        <div class="card-body px-2 text-center">
+                            <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Centre for comprehensive education</h5>
                             <a href="https://acce-abuja.com.ng/" class="btn btn-sm btn-success my-2 stretched-link d-none"
                                 target="_blank">Visit</a>
                         </div>
@@ -116,7 +116,7 @@
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
                     <div class="card bg-white">
                         <img class="card-img-top" src="/image/aau.jpg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                        <div class="card-body text-center">
                             <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar University</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -195,9 +195,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/amf.jpeg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white pb-3">
+                        <img class="card-img-top" src="/image/amf.jpeg" alt="acce" class="p-2">
+                        <div class="card-body text-center">
                             <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar Masjid</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>

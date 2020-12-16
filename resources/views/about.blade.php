@@ -137,7 +137,7 @@
     <div class="container">
         <div class="row justify-content-center p-5">
             <div class="col-md-12">
-                <h3 class="our text-center m-4">Our Affilliates</h3>
+                <h3 class="our text-center m-4">Subsidiaries</h3>
                 <div id="demo" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->
                     <ul class="carousel-indicators">

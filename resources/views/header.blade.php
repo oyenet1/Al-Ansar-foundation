@@ -44,6 +44,8 @@
                             <a class="dropdown-item" href="#">Education</a>
                             <a class="dropdown-item" href="#">Health</a>
                             <a class="dropdown-item" href="#">Humanitarian Support</a>
+                            <a class="dropdown-item" href="#">Information</a>
+                            <a class="dropdown-item" href="#">Security</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">
