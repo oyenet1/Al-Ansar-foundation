@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '1f1128013320557db0d07f77ecd74103d9e22be6',
+    'reference' => '7fa28f78e953cf7d8e02cff52d637d2dd9d55c13',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -431,7 +431,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '1f1128013320557db0d07f77ecd74103d9e22be6',
+      'reference' => '7fa28f78e953cf7d8e02cff52d637d2dd9d55c13',
     ),
     'laravel/tinker' => 
     array (
@@ -772,12 +772,12 @@
     ),
     'santigarcor/laratrust' => 
     array (
-      'pretty_version' => '6.3.0',
-      'version' => '6.3.0.0',
+      'pretty_version' => '6.3.1',
+      'version' => '6.3.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'ca2a769326454ef81e5a0a3525fee2fb37dbfc13',
+      'reference' => 'dcb43416ecfeacb67e056423780e288c325e9c82',
     ),
     'scrivo/highlight.php' => 
     array (

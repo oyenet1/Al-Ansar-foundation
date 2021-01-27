@@ -104,9 +104,9 @@
                 </div>
                 <hr class="bg-dark w-100">
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white px-3 pt-3">
+                    <div class="card bg-white p-3">
                         <img class="card-img-top" src="/image/acce.png" alt="acce" class="">
-                        <div class="card-body px-2 text-center">
+                        <div class="card-body d-none px-2 text-center">
                             <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Centre for comprehensive education</h5>
                             <a href="https://acce-abuja.com.ng/" class="btn btn-sm btn-success my-2 stretched-link d-none"
                                 target="_blank">Visit</a>
@@ -114,9 +114,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/aau.jpg" alt="acce" class="">
-                        <div class="card-body text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/aau.png" alt="acce" class="">
+                        <div class="card-body d-none text-center">
                             <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar University</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -124,9 +124,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/aam.jpeg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/aam.png" alt="acce" class="">
+                        <div class="card-body d-none p-0 text-center">
                             <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Academy, Maiduguri</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -134,9 +134,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/aan.jpg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/aan.png" alt="acce" class="">
+                        <div class="card-body d-none p-0 text-center">
                             <h5 class="text-capitalize text-dark mt-2 ">Al-Ansar Academy, Nyanya</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -144,9 +144,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/atv.jpg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/atv.png" alt="acce" class="">
+                        <div class="card-body d-none p-0 text-center">
                             <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar Radio & <span
                                     class="text-uppercase">TV</span></h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
@@ -155,9 +155,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/assl.jpg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/assl.png" alt="acce" class="">
+                        <div class="card-body d-none p-0 text-center">
                             <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar Security services</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -165,9 +165,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/awh.jpg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/awh.png" alt="acce" class="">
+                        <div class="card-body d-none p-0 text-center">
                             <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar women and children hospital</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -175,9 +175,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/achs.jpeg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/achs.png" alt="acce" class="">
+                        <div class="card-body d-none p-0 text-center">
                             <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar cleaning and hygeine services</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -185,9 +185,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white">
-                        <img class="card-img-top" src="/image/aqms.jpeg" alt="acce" class="">
-                        <div class="card-body p-0 text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/aqms.png" alt="acce" class="">
+                        <div class="card-body d-none p-0 text-center">
                             <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar quranic memorisation school</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -195,9 +195,9 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 col-sm-6 p-3">
-                    <div class="card bg-white pb-3">
-                        <img class="card-img-top" src="/image/amf.jpeg" alt="acce" class="p-2">
-                        <div class="card-body text-center">
+                    <div class="card bg-white p-3">
+                        <img class="card-img-top" src="/image/amf.png" alt="acce" class="p-2">
+                        <div class="card-body d-none text-center">
                             <h5 class="text-capitalize text-dark mt-2 px-1">Al-Ansar Masjid</h5>
                             <a href="#" class="btn btn-sm btn-success my-2 stretched-link d-none" target="_blank"
                                 title="Coming Soon" data-toggle="tooltip" data-placement="bottom">Visit</a>
@@ -218,8 +218,8 @@
                 </div>
                 <div class="col-md-6 col-lg-5 col-sm-10 p-3">
                     <div class="card text-left news">
-                        <img class="card-img-top" src="/image/i1.jpeg" alt="">
-                        <div class="card-body">
+                        <img class="card-img-top" src="/image/i1.png" alt="">
+                        <div class="card-body d-none">
                             <h4 class="card-title">Nile University Experience sharing Tour</h4>
                             <p class="card-text text-secondary">March 12, 2020</p>
                         </div>
@@ -228,7 +228,7 @@
                 <div class="col-md-6 col-lg-5 col-sm-10 p-3">
                     <div class="card text-left news">
                         <img class="card-img-top" src="/image/11.jpg" alt="">
-                        <div class="card-body">
+                        <div class="card-body d-none">
                             <h4 class="card-title">Jaiz Bank Founder & Co-Founder Visit to Al-Ansar Foundation</h4>
                             <p class="card-text text-secondary">March 12, 2020</p>
                         </div>

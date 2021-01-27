@@ -111,23 +111,23 @@
                     <div class="">
                         <ul class="list-unstyled">
                             <li class="list-inline-item m-2">
-                                <a href="https://www.facebook.com/acceabuja"
+                                <a href="https://www.facebook.com/Al-Ansar-Foundation-102145728534543"
                                     class="d-flex align-items-center fb text-decoration-none icon-color-2" target="_blank">
                                     <i class="fab fa-facebook fa-2x mr-2 "></i>
                                     <span class="text-white">Facebook</span>
                                 </a>
                             </li> <br>
                             <li class="list-inline-item m-2">
-                                <a href="https://twitter.com/acce_abuja"
+                                <a href="https://twitter.com/Al_Ansar_F"
                                     class="d-flex align-items-center tw text-decoration-none icon-color-2"
                                     target="_blank"><i class="fab fa-twitter-square fa-2x mr-2 "></i>
                                     <span class="text-white">Twitter</span>
                                 </a>
                             </li> <br>
                             <li class="list-inline-item m-2">
-                                <a href="#" class="d-flex align-items-center text-decoration-none icon-color-2 int"
-                                    target="_blank"><i class="fab fa-instagram fa-2x mr-2  "></i>
-                                    <span class="text-white">Instagram</span>
+                                <a href="https://www.linkedin.com/in/al-ansar-foundation-b62442204/" class="d-flex align-items-center text-decoration-none icon-color-2 tw"
+                                    target="_blank"><i class="fab fa-linkedin fa-2x mr-2  "></i>
+                                    <span class="text-white">LinkedIn</span>
                                 </a>
                             </li> <br>
                             <li class="list-inline-item m-2">

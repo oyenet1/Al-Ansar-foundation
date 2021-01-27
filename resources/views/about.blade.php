@@ -5,8 +5,8 @@
 
     {{-- about us --}}
     <div class="container-fluid bg-milk" id="about">
-        <div class="w-100" style="background-image: url('/image/about.jpg'); background-size: cover; ">
-            {{-- <img src="/image/about3.jpg" alt="about us" class="w-100 invisible">
+        <div class="w-100" style="background-image: url('/image/about.png'); background-size: cover; ">
+            {{-- <img src="/image/about3.png" alt="about us" class="w-100 invisible">
             --}}
             <div class="pad-5 w-100 trans"></div>
         </div>
@@ -151,35 +151,35 @@
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
                                         <div class=""><img src="/image/acce.png" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Acce-Abuja</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/aau.jpg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/aau.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar University</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/aam.jpeg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/aam.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar Academy, Maiduguri</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/aan.jpg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/aan.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar Academy, Nyanya</p>
                                         </div>
                                     </div>
@@ -191,36 +191,36 @@
                             <div class="row">
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/atv.jpg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/atv.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar Radio & TV</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/assl.jpg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/assl.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar Security services</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/awh.jpg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/awh.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar women and children hospital</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/achs.jpg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/achs.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar cleaning and hygeine services</p>
                                         </div>
                                     </div>
@@ -232,18 +232,18 @@
                             <div class="row justify-content-center">
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/aqms.jpeg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/aqms.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar quranic memorisation school</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/amf.jpeg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/amf.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar Masjid</p>
                                         </div>
                                     </div>
@@ -251,17 +251,17 @@
                                 {{-- <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
                                         <div class=""><img src="/image/aam.jpeg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar Academy, Maiduguri</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-3 round">
                                     <div class="rounded-circle p-4">
-                                        <div class=""><img src="/image/aan.jpg" alt="imagename"
-                                                class="mx-auto candidates d-block w-50"></div>
-                                        <div class="w-100 d-block text-center">
+                                        <div class=""><img src="/image/aan.png" alt="imagename"
+                                                class="mx-auto candidates d-block img-fluid"></div>
+                                        <div class="w-100 text-center d-none">
                                             <p class="m-2">Al-Ansar Academy, Nyanya</p>
                                         </div>
                                     </div>
